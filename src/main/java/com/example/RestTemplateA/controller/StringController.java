@@ -1,7 +1,7 @@
 package com.example.RestTemplateA.controller;
 
-import com.example.model.MyString;
-import com.example.service.StringService;
+import com.example.RestTemplateA.model.MyString;
+import com.example.RestTemplateA.service.StringService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
